@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2ce82e77934a4479353562e63bdb93, type: 3}
+  m_Name: SotanoDerecha
+  m_EditorClassIdentifier: 
+  storyImage: {fileID: 21300000, guid: 157053c8b6568434eb83212a4ed4b5ba, type: 3}
+  nextStates:
+  - {fileID: 11400000, guid: 9839aa792d5dfe94bab84e50be27bb41, type: 2}
+  - {fileID: 11400000, guid: 81caea1f268354d41851796d1d01d792, type: 2}
+  Habitacion: Sotano
+  Vista: 2

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2ce82e77934a4479353562e63bdb93, type: 3}
+  m_Name: Estudio2
+  m_EditorClassIdentifier: 
+  storyImage: {fileID: 21300000, guid: 9268773c7a785b94fbc16c8532546b3c, type: 3}
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4b7d4379875618244bd61474c4754ca5, type: 2}
+  - {fileID: 11400000, guid: 08a0ccbf0a9e8fa4c84255c8d90e36d4, type: 2}
+  - {fileID: 11400000, guid: 29c5baf603b4887498d3eae220de2568, type: 2}
+  Habitacion: Estudio
+  Vista: 2

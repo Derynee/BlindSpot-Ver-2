@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2ce82e77934a4479353562e63bdb93, type: 3}
+  m_Name: PasilloAlmacen
+  m_EditorClassIdentifier: 
+  storyImage: {fileID: 21300000, guid: dd7c8f98e15b2544599cc3c09f521713, type: 3}
+  nextStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 4b7d4379875618244bd61474c4754ca5, type: 2}
+  - {fileID: 11400000, guid: 86cfac1e16f554747b2f7e303db672a4, type: 2}
+  - {fileID: 11400000, guid: 9128e420b76c46c4f87e3caa024b493d, type: 2}
+  Habitacion: PasilloAlmacen
+  Vista: 1
